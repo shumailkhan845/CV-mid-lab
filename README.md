@@ -207,10 +207,3 @@ This project demonstrates a practical comparison of HOG and SIFT for classical i
 
 The experiment highlights the importance of feature representation, validation-based hyperparameter selection, and robustness evaluation in computer vision.
 
-## Repository Contents
-
-- `RollNo_Name_LabMid.ipynb` — executed experimental notebook.
-- `README.md` — project documentation.
-- `RollNo_Name_LabMid.pdf` — PDF report exported for submission.
-
-Replace the placeholder notebook and PDF filenames with your actual filenames before submitting.
